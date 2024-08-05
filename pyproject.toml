@@ -1,2 +1,4 @@
 [project]
 name = "game"
+
+[tool.poetry]
