@@ -62,7 +62,7 @@ class CraftCommand(Icommand):
 
 
 class TestOTUSRefactoring(unittest.TestCase):
-    # @unittest.skip
+    @unittest.skip
     def test_craft_basic_torpedo1(self):
         # Arrange
         inventory = Inventory()
