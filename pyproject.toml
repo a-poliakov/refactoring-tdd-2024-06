@@ -2,7 +2,7 @@
 name = "game"
 
 [tool.poetry]
-authors = "apolyakov"
+authors = ["apolyakov"]
 description = "game"
 name = "game"
 version = "0.1"
